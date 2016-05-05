@@ -1,0 +1,3 @@
+[submodule "samples/android-samples"]
+	path = samples/android-samples
+	url = https://github.com/googlemaps/android-samples.git
