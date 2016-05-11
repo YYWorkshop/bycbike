@@ -1,3 +1,6 @@
 [submodule "samples/android-samples"]
 	path = samples/android-samples
 	url = https://github.com/googlemaps/android-samples.git
+[submodule "appl3"]
+	path = appl3
+	url = https://github.com/LonelyyHu/MyApplication3.git
