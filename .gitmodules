@@ -4,9 +4,3 @@
 [submodule "samples/GpsSamples"]
 	path = samples/GpsSamples
 	url = git@github.com:YYWorkshop/Samples.git
-[submodule "samples/GPS_Smaple"]
-	path = samples/GPS_Smaple
-	url = git@github.com:LonelyyHu/GPS_Smaple.git
-[submodule "samples/GoogleMapWork"]
-	path = samples/GoogleMapWork
-	url = git@github.com:dynamicy/GoogleMapWork.git
