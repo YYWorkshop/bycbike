@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">workshop-gps</string>
-
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
-
-    <string name="longitude_label">經度：</string>
-    <string name="latitude_label">緯度：</string>
-</resources>
