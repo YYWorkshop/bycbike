@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BycBike</string>
+    <string name="record_view">Records</string>
+    <string name="activity_view">Activities</string>
 </resources>
